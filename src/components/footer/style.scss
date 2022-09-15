@@ -1,20 +1,10 @@
-.menu{
-    margin: 25px 0;
-    display: flex;
-    justify-content: space-between;
+footer{
+    margin-top: 110px;
+    background-color:  #121212;
+    color: white;
+    padding: 105px 0 105px 0;
     img{
-        width:103.74px;
-        height: 33.24px;
-    }
-    ul{
-        display: flex;
-        gap: 20px;
-        li{
-            list-style: none;
-        }
-    }
-    a{
-        text-decoration: none;
-        color: white;
+        width: 103px;
+        height: 33px;
     }
 }

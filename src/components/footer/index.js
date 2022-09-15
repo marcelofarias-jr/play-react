@@ -3,29 +3,25 @@ import { Container } from "react-bootstrap";
 import { Link } from 'react-router-dom';
 import './style.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import logo from "../../assets/img/logo.png";
 
 export const Footer = () => {
   return (
-    <Container>
-      <nav className="menu">
-        <div className="menu__nav">
-          <ul>
-            <li>
-              <Link to="/filmes">Filmes</Link>
-            </li>
-            <li>
-              <Link to="/documentarios" state={'This is state from ABOUT'}>
-                Documentários
-              </Link>
-            </li>
-            <li>
-              <Link to="/series">Series</Link>
-            </li>
-          </ul>
+    <footer>
+      <Container>
+        <div className="footer__content">
+          <div className="footer__content__logo">
+            <Link to="/">
+              <img src={logo} alt="Logo" />
+            </Link>
+          </div>
+          <div className="footer__content__copy">
+            <p>&copy -- Play -- Todos os direitos reservados</p>
+          </div>
         </div>
-
-      </nav>
-    </Container>
+      </Container>
+    </footer>
 
   );
 };
+
