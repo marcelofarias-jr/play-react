@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Filme 1",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-gabriel-hohol-3593922.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Filme 2",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-ivy-son-3490257.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Filme 3",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-dazzle-jam-1190208.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Filme 4",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-pixabay-277253.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Filme 5",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-pixabay-2346.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Filme 6",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-francesco-ungaro-1525041.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Filme 7",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-chris-peeters-12801.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Filme 8",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-karley-saagi-2062882.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Filme 9",
+        "category": "Filme",
+        "duration": "130m",
+        "cover": "./img/pexels-perchek-industrie-5451980.jpg"
+    }
+]
