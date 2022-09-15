@@ -16,7 +16,7 @@ export const Footer = () => {
             </Link>
           </div>
           <div className="footer__content__copy">
-            <p>&copy -- Play -- Todos os direitos reservados</p>
+            <p>© - Play - Todos os direitos reservados</p>
           </div>
         </div>
       </Container>
